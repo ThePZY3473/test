@@ -1,6 +1,6 @@
 <H1 align="center">MoreJokerLauncher</H1>
  (我的天哪，我在做什么)
-（相比于MoreJokerLauncher，[Fold Craft Launcher](https://github.com/FCL-Team/FoldCraftLauncher/)可能更适合你）
+相比于MoreJokerLauncher，[Fold Craft Launcher](https://github.com/FCL-Team/FoldCraftLauncher/)可能更适合你
 <img src="https://github.com/MojoLauncher/MojoLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="150" height="150" alt="MojoLauncher logo">
 
 [![Android CI](https://github.com/MojoLauncher/MojoLauncher/workflows/Android%20CI/badge.svg)](https://github.com/MojoLauncher/MojoLauncher/actions)
